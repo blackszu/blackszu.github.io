@@ -68,5 +68,28 @@
 		  "main_school": "Friedman",
 		  "preferred_name": null
 		}
+    ],
+  "software": [
+		{
+		  "software_name": "AceThinker PDF Editor for Windows (Yearly plan - 1 Computer)",
+		  "os": "Windows",
+		  "software_license_name": null,
+		  "display_usage": null,
+		  "preferred_name": null
+		},
+		{
+		  "software_name": "Mathcad Prime",
+		  "os": "Others/Unknown",
+		  "software_license_name": null,
+		  "display_usage": null,
+		  "preferred_name": null
+		},
+		{
+		  "software_name": "Adobe Creative Cloud ETLA 4MO (Paid)",
+		  "os": "Others/Unknown",
+		  "software_license_name": "Adobe Creative Cloud",
+		  "display_usage": "Y",
+		  "preferred_name": "ACC Downloads"
+		}
     ]
 }
