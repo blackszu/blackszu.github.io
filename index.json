@@ -48,5 +48,24 @@
 		  "preferred_name": null,
 		  "derived_degree": "PHD"
 		}
-    ]
+    ],
+  "acad_org": [
+		{
+		  "acad_org": "PHPD",
+		  "acad_description": "Public Hlth & Prof Degree Prog",
+		  "main_school": "Medical",
+		  "preferred_name": "Public Health & Community Medicine"
+		},
+		{
+		  "acad_org": "Harvard",
+		  "acad_description": "Harvard Cross Registration",
+		  "main_school": "Fletcher",
+		  "preferred_name": "Fletcher"
+		},
+		{
+		  "acad_org": "BMN",
+		  "acad_description": "Biochem & Mol Nutrition",
+		  "main_school": "Friedman",
+		  "preferred_name": null
+		}
 }
